@@ -2,6 +2,9 @@ package main;
 
 import javax.swing.JFrame;
 
+/*
+    Creates the window for which the game will be created on.
+ */
 public class Main {
 
     public static void main(String[] args) {
