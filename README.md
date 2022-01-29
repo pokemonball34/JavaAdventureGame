@@ -28,6 +28,13 @@ None of this would be possible without it.
 
 
 # Devlog
+## [Patch 0.0.02] - 2022-01-28
+Pictures! A video game needs to have some sort of graphics! I added some hand-made assets onto the project and set up a
+tile mapping algorithm to make level development a bit easier! More to come with bigger and better maps!
+### Added
+- Assets for the player, and three types of tiles (water, grass, wall)
+- Create a tile mapping algorithm to draw the background
+
 ## [Patch 0.0.01] - 2022-01-27
 
 ### Added
